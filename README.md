@@ -1,8 +1,7 @@
 # Data_Analysis_📊 Census Data Analysis Dashboard-by Prem kumar
-🔗 Live App: https://dataanalysis-bypremkumar.streamlit.app/
-🧠 Project Overview
+# 🔗 Live App: https://dataanalysis-bypremkumar.streamlit.app/
 
-This Streamlit-based web app performs an extensive analysis of census data to explore education, income, employment, and demographic patterns.
+ This Streamlit-based web app performs an extensive analysis of census data to explore education, income, employment, and demographic patterns.
 It combines 25+ different operations — with interactive charts and filter-based data tables — to provide a complete understanding of a population dataset.
 
 🗂️ Key Features
